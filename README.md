@@ -1,4 +1,4 @@
-# Quantum cryptography: Quantum Key Distribution (QKD)
+# Quantum Cryptography: Quantum Key Distribution (QKD)
 Quantum cryptography is a technique that leverages the principles of quantum mechanics to ensure secure communication between two parties. The most well-known quantum cryptography protocol is Quantum Key Distribution (QKD), which allows two parties to generate a shared, secret encryption key in a way that is resistant to eavesdropping. QKD relies on the fundamental properties of quantum mechanics, such as superposition and entanglement, to achieve this level of security.
 
 The most famous QKD protocol is the BB84 protocol, which was proposed by Charles Bennett and Gilles Brassard in 1984. Here's a brief overview of how the BB84 protocol works:
